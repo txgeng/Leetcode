@@ -2,6 +2,11 @@
 // Author : Tongxing Geng
 // Date   : 2017-09
 
+/*
+Pay attention to duplicate number in input
+*/
+
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {

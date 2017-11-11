@@ -1,9 +1,9 @@
 # TestGitHub
 GitHub Tutorial
 
-| Question Number | Title         | Solution  | Time | Difficulty |
-| --------------  |:-------------:| :--------:|:----:| :----------:|
-| col 3 is        | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++]() | O(n) | easy |
-| col 2 is        | [Three Sum](https://github.com/txgeng/TestGitHub/blob/master/python/helloworld.py)|    $12 | O(n) | easy |
-| zebra stripes   | [Median](https://github.com/txgeng/TestGitHub/blob/master/python/helloworld.py)   |    $1 | O(n) | easy |
+| Question Number | Title         | Solution  | Time | Space | Difficulty |
+| --------------  |:-------------:| :--------:|:----:| :----:|:----------:|
+| col 3 is        | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](https://github.com/txgeng/Leetcode/blob/master/TwoSum.cpp) | O(n) | O(n) | Easy |
+| col 2 is        | [Three Sum](https://github.com/txgeng/TestGitHub/blob/master/python/helloworld.py)|    $12 | O(n) | O(n) | easy|
+| zebra stripes   | [Median](https://github.com/txgeng/TestGitHub/blob/master/python/helloworld.py)   |    $1 | O(n) | O(n) | easy |
 
